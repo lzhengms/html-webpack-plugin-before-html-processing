@@ -5,7 +5,7 @@ Installation
 ------------
 Install the plugin with npm:
 ```shell
-$ npm html-webpack-beforehtml-plugin --save-dev
+$ npm install html-webpack-beforehtml-plugin --save-dev
 ```
 
 
